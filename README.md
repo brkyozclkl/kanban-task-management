@@ -6,7 +6,6 @@
 Modern ve kullanıcı dostu bir görev yönetim uygulaması | A modern and user-friendly task management application
 
 
-
 </div>
 
 > [!NOTE]  
