@@ -2,14 +2,10 @@
 
 <div align="center">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/berkayozcelikel/kanban-task-management)
-![GitHub issues](https://img.shields.io/github/issues/berkayozcelikel/kanban-task-management)
-![GitHub stars](https://img.shields.io/github/stars/berkayozcelikel/kanban-task-management)
-![GitHub license](https://img.shields.io/github/license/berkayozcelikel/kanban-task-management)
 
 Modern ve kullanıcı dostu bir görev yönetim uygulaması | A modern and user-friendly task management application
 
-[English](README.en.md) | [Türkçe](README.md)
+
 
 </div>
 
@@ -100,7 +96,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 📧 İletişim
 
-Berkay ÖZÇELİKEL - [berkayozceikel0@gmail.com](mailto:berkayozceikel0@gmail.com)
+Berkay ÖZÇELİKEL - [berkayozcelikel0@gmail.com](mailto:berkayozcelikel0@gmail.com)
 
 
 ---
