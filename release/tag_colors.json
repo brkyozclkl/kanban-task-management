@@ -1,0 +1,17 @@
+{
+    "colors": {
+        "default": "#808080",
+        "önemli": "#FF0000",
+        "acil": "#FF4500",
+        "beklemede": "#FFA500",
+        "toplantı": "#4169E1",
+        "proje": "#32CD32",
+        "araştırma": "#9370DB",
+        "geliştirme": "#20B2AA",
+        "test": "#FFD700",
+        "dokümantasyon": "#DDA0DD",
+        "#proje": "#f73b94",
+        "#araba": "#d64b62",
+        "#acil": "#d43f47"
+    }
+}

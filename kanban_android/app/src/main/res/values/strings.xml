@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kanban</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="title_board">Kanban</string>
+    <string name="title_calendar">Takvim</string>
+    <string name="title_news">Haberler</string>
+    <string name="title_profile">Profil</string>
+    
+    <!-- Task States -->
+    <string name="state_todo">Yapılacak</string>
+    <string name="state_in_progress">Devam Ediyor</string>
+    <string name="state_completed">Tamamlandı</string>
+    
+    <!-- Task Operations -->
+    <string name="add_task">Görev Ekle</string>
+    <string name="edit_task">Görevi Düzenle</string>
+    <string name="delete_task">Görevi Sil</string>
+    <string name="share_task">Görevi Paylaş</string>
+    <string name="task_name">Görev Adı</string>
+    <string name="task_description">Açıklama</string>
+    <string name="task_due_date">Bitiş Tarihi</string>
+    <string name="task_priority">Öncelik</string>
+    <string name="task_tags">Etiketler</string>
+    
+    <!-- Priority Levels -->
+    <string name="priority_low">Düşük</string>
+    <string name="priority_medium">Orta</string>
+    <string name="priority_high">Yüksek</string>
+    
+    <!-- Dialog Messages -->
+    <string name="dialog_delete_task">Bu görevi silmek istediğinizden emin misiniz?</string>
+    <string name="dialog_yes">Evet</string>
+    <string name="dialog_no">Hayır</string>
+    <string name="dialog_cancel">İptal</string>
+    <string name="dialog_save">Kaydet</string>
+    
+    <!-- Error Messages -->
+    <string name="error_task_name_empty">Görev adı boş olamaz</string>
+    <string name="error_due_date_past">Bitiş tarihi geçmiş bir tarih olamaz</string>
+    <string name="error_network">İnternet bağlantısı hatası</string>
+    
+    <!-- Success Messages -->
+    <string name="success_task_added">Görev başarıyla eklendi</string>
+    <string name="success_task_updated">Görev başarıyla güncellendi</string>
+    <string name="success_task_deleted">Görev başarıyla silindi</string>
+    <string name="success_task_shared">Görev başarıyla paylaşıldı</string>
+    
+    <!-- Calendar -->
+    <string name="calendar_no_tasks">Bu tarihte görev yok</string>
+    <string name="calendar_add_task">Bu tarihe görev ekle</string>
+    
+    <!-- News -->
+    <string name="news_refresh">Haberleri Yenile</string>
+    <string name="news_no_data">Haber bulunamadı</string>
+    
+    <!-- Profile -->
+    <string name="profile_notifications">Bildirimler</string>
+    <string name="profile_theme">Tema</string>
+    <string name="profile_language">Dil</string>
+    <string name="profile_logout">Çıkış Yap</string>
+    
+    <!-- Login/Register -->
+    <string name="login">Giriş Yap</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="username">Kullanıcı Adı</string>
+    <string name="password">Parola</string>
+    <string name="forgot_password">Parolamı Unuttum</string>
+</resources> 
